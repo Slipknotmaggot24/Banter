@@ -1,1 +1,20 @@
+/* id selector - the only element with id */
+#intro {
+  color: red;
+}
 
+/* element selector - all elements of type h2  */
+h2 {
+  color: yellow;
+}
+
+/* class selector - all elements with the given class  */
+.jokeQuestion {
+  font-size: larger;
+  color: blue;
+}
+
+.jokeAnswer {
+  font-weight: 800;
+  color: magenta;
+}
